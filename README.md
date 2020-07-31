@@ -1,1 +1,7 @@
-[![hellbound's github stats](https://github-readme-stats.vercel.app/api?username=hellbound1337)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellbound1337&&show_icons=true&count_private=true" alt="hellbound's Github Stats">
+</p>  
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellbound1337&layout=compact" alt="Pramod's Github Stats">
+</p>  
