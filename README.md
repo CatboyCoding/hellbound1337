@@ -3,5 +3,5 @@
 </p>  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellbound1337&layout=compact" alt="Pramod's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellbound1337&layout=compact" alt="hellbound's Github Stats">
 </p>  
